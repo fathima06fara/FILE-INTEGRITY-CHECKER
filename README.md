@@ -88,7 +88,11 @@ The final result is a reliable tool that can detect unauthorized file changes an
 
 #OUTPUT
 
-https://github.com/fathima06fara/FILE-INTEGRITY-CHECKER/blob/main/output.txt
+PS C:\Users\Farhana\Downloads\file_integrity_checker> python file_integrity_checker.py
+🔍 Checking file integrity...
+
+📁 Added Files:
+  + files_to_monitor\a.txt
 
 
 
