@@ -88,11 +88,7 @@ The final result is a reliable tool that can detect unauthorized file changes an
 
 #OUTPUT
 
-PS C:\Users\Farhana\Downloads\file_integrity_checker> python file_integrity_checker.py
-🔍 Checking file integrity...
-
-📁 Added Files:
-  + files_to_monitor\a.txt
+<img width="1919" height="1133" alt="Screenshot 2025-08-03 002756" src="https://github.com/user-attachments/assets/de6f35a8-400a-4d78-97b9-9bda4c2eb70e" />
 
 
 
