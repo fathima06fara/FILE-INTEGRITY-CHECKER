@@ -1,5 +1,0 @@
-PS C:\Users\Farhana\Downloads\file_integrity_checker> python file_integrity_checker.py
-🔍 Checking file integrity...
-
-📁 Added Files:
-  + files_to_monitor\a.txt
